@@ -2,6 +2,8 @@
 
 수업 Git Hub : https://github.com/sejongresearch/2021.ArtificialIntelligence
 
+`pytorch` `python` `colab` `kaggle` `slack` `pandas` `numpy` ...
+
 my kaggle : https://www.kaggle.com/yeonhxx
 
 |텀프로젝트|발표영상|코드|
