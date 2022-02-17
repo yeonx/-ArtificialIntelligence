@@ -4,7 +4,7 @@
 
 `pytorch` `python` `colab` `kaggle` `slack` `pandas` `numpy` ...
 
-kaggle : https://www.kaggle.com/yeonhxx
+my kaggle address : https://www.kaggle.com/yeonhxx
 
 |텀프로젝트|발표영상|코드|
 |:---:|:---:|:---:|
